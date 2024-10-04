@@ -1,0 +1,2 @@
+# Picgo
+save Picgo figures
